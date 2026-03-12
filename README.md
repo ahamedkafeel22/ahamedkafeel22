@@ -20,7 +20,7 @@
 - 🧠 Specialized in **Computer Vision (YOLOv8/v11)**, **Generative AI (RAG)**, and **MLOps**
 - ☁️ Experienced in deploying containerized AI APIs on **AWS EC2** with **Docker + CI/CD**
 - 📊 Strong background in **data engineering**, **ETL pipelines**, and **BI dashboards**
-- 💼 5+ years in finance & accounting — I understand the **business side of data**
+- 💼 6+ years in finance & accounting — I understand the **business side of data**
 - 🎓 Pursuing **MBA in Data Science** — Amity University Online (2027)
 - 📍 Based in **Mysore, Karnataka, India**
 - 📫 Reach me at **ahamedkafeel22@gmail.com**
