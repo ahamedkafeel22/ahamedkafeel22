@@ -54,7 +54,7 @@ Power BI · DAX · Tableau · Advanced Excel (VBA)
 Python · Pandas · NumPy · SQL · MySQL · PostgreSQL  
 
 **AI / ML (Applied in Finance)**  
-Forecasting Models · RAG · Scikit-learn  
+Forecasting (ARIMA, Prophet) · RAG · Scikit-learn  
 
 **Tools & Platforms**  
 AWS · Docker · Git · FastAPI · Tally ERP  
