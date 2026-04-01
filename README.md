@@ -21,7 +21,7 @@ I specialize in delivering **P&L insights, variance analysis, and executive repo
 
 I focus on building finance systems that reduce manual effort and improve decision speed.
 
-I also bring a strong analytics edge to finance:
+I combine finance expertise with data and automation:
 - Built **Power BI dashboards** replacing 10+ manual reports and improving decision visibility  
 - Automated reporting workflows using **Python & VBA**, reducing effort by 40%  
 - Developed forecasting models (**ARIMA/Prophet**) with **MAPE < 8%**  
@@ -36,7 +36,7 @@ I also bring a strong analytics edge to finance:
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 📊 [Finance Analytics Dashboard](https://github.com/ahamedkafeel22/finance-analytics-dashboard) | Power BI dashboard for P&L, expense tracking, and KPI monitoring enabling data-driven decision-making | Power BI · DAX |
+| 📊 [Finance Analytics Dashboard](https://github.com/ahamedkafeel22/finance-analytics-dashboard) | Power BI dashboard for P&L, expense tracking, and KPI monitoring enabling faster and more accurate decision-making | Power BI · DAX |
 | 📈 [DMart Demand Forecasting](https://github.com/ahamedkafeel22/dmart-demand-forecasting) | Demand forecasting models (ARIMA/Prophet) supporting budgeting and planning with MAPE < 8% | Python · Forecasting |
 | 🤖 [AI Document Assistant](https://github.com/ahamedkafeel22/ai-document-assistant) | RAG system for querying financial documents, reducing audit review time and improving compliance efficiency | Python · RAG · LLM |
 | 📉 [Customer Churn Prediction](https://github.com/ahamedkafeel22/customer-churn-prediction) | Customer churn prediction model with 88% accuracy supporting retention strategy insights | Scikit-learn · XGBoost |
