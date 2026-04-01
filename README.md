@@ -76,14 +76,6 @@ English (Professional) · Hindi (Fluent) · Urdu (Native) · Kannada (Fluent)
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahamedkafeel22&show_icons=true" />
-</p>
-
----
-
 <p align="center">
   <i>Transforming financial data into insights and systems that drive business decisions.</i>
 </p>
