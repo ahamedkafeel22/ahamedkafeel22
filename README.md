@@ -1,6 +1,6 @@
 <h1 align="center">Syed Kafeel Ahamed</h1>
 
-<h3 align="center">Finance Analytics | Data Science | Machine Learning | Python · AWS · Power BI</h3>
+<h3 align="center">FP&A Analyst | Financial Planning & Analysis | Business Partnering</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/syed-kafeel-ahamed-ab465036b">
@@ -15,12 +15,17 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I build **production-ready data & ML systems** — from analysis to deployment  
-- 🧠 Specialized in **Computer Vision (YOLO)**, **Generative AI (RAG)**, and **forecasting models**  
-- ☁️ Experienced in deploying solutions using **AWS, Docker, and FastAPI**  
-- 📊 Strong foundation in **FP&A, financial reporting, and business analytics**  
-- 💼 6+ years in finance — bridging **business + data + technology**  
-- 🎓 MBA in Finance (Amity University Online, expected 2027)  
+FP&A professional with 6+ years of experience in financial planning, budgeting, and performance analysis in high-volume environments (₹1Cr+ monthly).
+
+I specialize in delivering **P&L insights, variance analysis, and executive reporting** that support strategic decision-making, cost optimization, and business performance.
+
+I also bring a strong analytics edge to finance:
+- Built **Power BI dashboards** replacing 10+ manual reports  
+- Automated reporting workflows using **Python & VBA**, reducing effort by 40%  
+- Developed forecasting models (**ARIMA/Prophet**) with **MAPE < 8%**  
+- Built an **AI-driven financial document system (RAG)** reducing review time by 70–80%  
+
+- 🎓 MBA in Finance — Amity University Online (expected 2027)  
 - 📍 Mysore, Karnataka, India  
 
 ---
@@ -29,28 +34,30 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [🪖 Helmet Safety MLOps](https://github.com/ahamedkafeel22/helmet-safety-mlops) | Production ML pipeline with YOLO deployed on AWS using Docker & CI/CD | YOLO · Docker · AWS · FastAPI |
-| [🤖 AI Document Assistant](https://github.com/ahamedkafeel22/ai-document-assistant) | RAG system for querying documents using LLM + vector search | Python · RAG · LLM |
+| [📊 Finance Analytics Dashboard](https://github.com/ahamedkafeel22/finance-analytics-dashboard) | Executive Power BI dashboard for P&L, expenses, and KPI tracking | Power BI · DAX |
+| [📈 DMart Demand Forecasting](https://github.com/ahamedkafeel22/dmart-demand-forecasting) | ARIMA & Prophet models supporting budgeting and planning (MAPE < 8%) | Python · Forecasting |
+| [🤖 AI Document Assistant](https://github.com/ahamedkafeel22/ai-document-assistant) | RAG system for querying financial documents, improving audit efficiency | Python · RAG · LLM |
 | [📉 Customer Churn Prediction](https://github.com/ahamedkafeel22/customer-churn-prediction) | ML models predicting churn with 88% accuracy | Scikit-learn · XGBoost |
-| [📦 DMart Demand Forecasting](https://github.com/ahamedkafeel22/dmart-demand-forecasting) | ARIMA & Prophet models achieving MAPE < 8% | Python · Forecasting |
-| [📊 Finance Analytics Dashboard](https://github.com/ahamedkafeel22/finance-analytics-dashboard) | Power BI dashboard for revenue, expense & KPI insights | Power BI · DAX |
-| [🛒 E-Commerce ETL Pipeline](https://github.com/ahamedkafeel22/indian-ecommerce-etl-pipeline) | Scalable ETL pipeline processing 500K+ records | Python · MySQL |
+| [🛒 E-Commerce ETL Pipeline](https://github.com/ahamedkafeel22/indian-ecommerce-etl-pipeline) | ETL pipeline processing 500K+ records into MySQL warehouse | Python · MySQL |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Data**  
-Python · SQL · MySQL  
+**Finance & Analytics**  
+FP&A · Budgeting · Forecasting · Variance Analysis · Financial Close  
 
-**AI / ML**  
-Scikit-learn · YOLO · OpenCV · RAG  
+**BI & Reporting**  
+Power BI · DAX · Tableau · Advanced Excel (VBA)  
 
-**Cloud & MLOps**  
-Docker · AWS · FastAPI · CI/CD  
+**Data & Automation**  
+Python · Pandas · NumPy · SQL · MySQL · PostgreSQL  
 
-**BI & Analytics**  
-Power BI · Tableau · Excel  
+**AI / ML (Applied in Finance)**  
+Forecasting Models · RAG · Scikit-learn  
+
+**Tools & Platforms**  
+AWS · Docker · Git · FastAPI · Tally ERP  
 
 ---
 
@@ -59,7 +66,13 @@ Power BI · Tableau · Excel
 - NASSCOM Data Science — Gold  
 - NASSCOM Python Fundamentals — Gold  
 - AI & Deep Learning — 360DigiTMG  
-- Power BI · Tableau · SQL · Advanced Excel  
+- Power BI · Tableau · SQL · Advanced Excel · Generative AI  
+
+---
+
+## 🌐 Languages
+
+English (Professional) · Hindi (Fluent) · Urdu (Native) · Kannada (Fluent)  
 
 ---
 
@@ -72,5 +85,5 @@ Power BI · Tableau · Excel
 ---
 
 <p align="center">
-  <i>Turning data into systems that drive real business decisions.</i>
+  <i>Transforming financial data into insights and systems that drive business decisions.</i>
 </p>
