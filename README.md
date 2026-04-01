@@ -17,7 +17,7 @@
 
 FP&A professional with 6+ years of experience in financial planning, budgeting, and performance analysis in high-volume environments (₹1Cr+ monthly).
 
-I specialize in delivering **P&L insights, variance analysis, and executive reporting** that support strategic decision-making, cost optimization, and business performance.
+I specialize in delivering **P&L insights, variance analysis, and executive reporting** that support strategic decision-making, cost optimization, and business performance. 
 I focus on building finance systems that reduce manual effort and improve decision speed.I focus on building finance systems that reduce manual effort and improve decision speed.
 
 I also bring a strong analytics edge to finance:
