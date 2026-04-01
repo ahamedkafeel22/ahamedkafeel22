@@ -22,10 +22,10 @@ I specialize in delivering **P&L insights, variance analysis, and executive repo
 I focus on building finance systems that reduce manual effort and improve decision speed.I focus on building finance systems that reduce manual effort and improve decision speed.
 
 I also bring a strong analytics edge to finance:
-- Built **Power BI dashboards** replacing 10+ manual reports  
+- Built **Power BI dashboards** replacing 10+ manual reports and improving decision visibility  
 - Automated reporting workflows using **Python & VBA**, reducing effort by 40%  
 - Developed forecasting models (**ARIMA/Prophet**) with **MAPE < 8%**  
-- Built an **AI-driven financial document system (RAG)** reducing review time by 70–80%  
+- Built an AI-driven financial document system (RAG) reducing audit review time by 70–80% 
 
 - 🎓 MBA in Finance — Amity University Online (expected 2027)  
 - 📍 Mysore, Karnataka, India  
