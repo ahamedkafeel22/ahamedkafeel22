@@ -39,8 +39,6 @@ I combine finance expertise with data and automation:
 | 📊 [Finance Analytics Dashboard](https://github.com/ahamedkafeel22/finance-analytics-dashboard) | Power BI dashboard for P&L, expense tracking, and KPI monitoring enabling faster and more accurate decision-making | Power BI · DAX |
 | 📈 [DMart Demand Forecasting](https://github.com/ahamedkafeel22/dmart-demand-forecasting) | Demand forecasting models (ARIMA/Prophet) supporting budgeting and planning with MAPE < 8% | Python · Forecasting |
 | 🤖 [AI Document Assistant](https://github.com/ahamedkafeel22/ai-document-assistant) | RAG system for querying financial documents, reducing audit review time and improving compliance efficiency | Python · RAG · LLM |
-| 📉 [Customer Churn Prediction](https://github.com/ahamedkafeel22/customer-churn-prediction) | Customer churn prediction model with 88% accuracy supporting retention strategy insights | Scikit-learn · XGBoost |
-| 🛒 [E-Commerce ETL Pipeline](https://github.com/ahamedkafeel22/indian-ecommerce-etl-pipeline) | ETL pipeline processing 500K+ records into a structured data warehouse for analytics | Python · MySQL |
 
 ---
 
