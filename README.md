@@ -36,11 +36,11 @@ I also bring a strong analytics edge to finance:
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [📊 Finance Analytics Dashboard](https://github.com/ahamedkafeel22/finance-analytics-dashboard) | Executive Power BI dashboard for P&L, expenses, and KPI tracking | Power BI · DAX |
-| [📈 DMart Demand Forecasting](https://github.com/ahamedkafeel22/dmart-demand-forecasting) | ARIMA & Prophet models supporting budgeting and planning (MAPE < 8%) | Python · Forecasting |
-| [🤖 AI Document Assistant](https://github.com/ahamedkafeel22/ai-document-assistant) | RAG system for querying financial documents, improving audit efficiency | Python · RAG · LLM |
-| [📉 Customer Churn Prediction](https://github.com/ahamedkafeel22/customer-churn-prediction) | ML models predicting churn with 88% accuracy | Scikit-learn · XGBoost |
-| [🛒 E-Commerce ETL Pipeline](https://github.com/ahamedkafeel22/indian-ecommerce-etl-pipeline) | ETL pipeline processing 500K+ records into MySQL warehouse | Python · MySQL |
+| 📊 [Finance Analytics Dashboard](https://github.com/ahamedkafeel22/finance-analytics-dashboard) | Power BI dashboard for P&L, expense tracking, and KPI monitoring enabling data-driven decision-making | Power BI · DAX |
+| 📈 [DMart Demand Forecasting](https://github.com/ahamedkafeel22/dmart-demand-forecasting) | Demand forecasting models (ARIMA/Prophet) supporting budgeting and planning with MAPE < 8% | Python · Forecasting |
+| 🤖 [AI Document Assistant](https://github.com/ahamedkafeel22/ai-document-assistant) | RAG system for querying financial documents, reducing audit review time and improving compliance efficiency | Python · RAG · LLM |
+| 📉 [Customer Churn Prediction](https://github.com/ahamedkafeel22/customer-churn-prediction) | Customer churn prediction model with 88% accuracy supporting retention strategy insights | Scikit-learn · XGBoost |
+| 🛒 [E-Commerce ETL Pipeline](https://github.com/ahamedkafeel22/indian-ecommerce-etl-pipeline) | ETL pipeline processing 500K+ records into a structured data warehouse for analytics | Python · MySQL |
 
 ---
 
