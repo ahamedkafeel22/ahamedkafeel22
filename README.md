@@ -1,81 +1,110 @@
-<h1 align="center">Syed Kafeel Ahamed</h1>
+<div align="center">
 
-<h3 align="center">FP&A Analyst | Financial Planning & Analysis | Business Partnering</h3>
+# Syed Kafeel Ahamed
 
-<p align="center">
+### Data Analyst | Finance & Business Analytics | SQL | Python | Power BI | Forecasting
+
+<p>
   <a href="https://www.linkedin.com/in/syed-kafeel-ahamed-ab465036b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
+  
   <a href="mailto:ahamedkafeel22@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
----
-
-## 👨‍💻 About Me
-
-FP&A professional with 6+ years of experience in financial planning, budgeting, and performance analysis in high-volume environments (₹1Cr+ monthly).
-
-I specialize in delivering **P&L insights, variance analysis, and executive reporting** that support strategic decision-making, cost optimization, and business performance. 
-
-I focus on building finance systems that reduce manual effort and improve decision speed.
-
-I combine finance expertise with data and automation:
-- Built **Power BI dashboards** replacing 10+ manual reports and improving decision visibility  
-- Automated reporting workflows using **Python & VBA**, reducing effort by 40%  
-- Developed forecasting models (**ARIMA/Prophet**) with **MAPE < 8%**  
-- Built an AI-driven financial document system (RAG) reducing audit review time by 70–80% 
-
-- 🎓 MBA in Finance — Amity University Online (expected 2027)  
-- 📍 Mysore, Karnataka, India  
+</div>
 
 ---
 
-## 🚀 Featured Projects
+# 👨‍💻 About Me
+
+Data Analyst with 1+ year of experience in analytics, dashboard development, reporting automation, and business intelligence.
+
+I specialize in:
+- Financial Analytics & KPI Reporting
+- Power BI Dashboard Development
+- SQL & Python-based Data Analysis
+- Forecasting & Trend Analysis
+- Reporting Automation
+- Business Intelligence Solutions
+
+---
+
+# 🚀 Core Skills
+
+## 📊 Analytics & Finance
+- Financial Analysis
+- KPI Tracking
+- Budgeting & Forecasting
+- Variance Analysis
+- Business Reporting
+- Trend Analysis
+
+## 🛠 Technical Skills
+- Python (Pandas, NumPy)
+- SQL (MySQL, PostgreSQL)
+- Power BI
+- Tableau
+- Advanced Excel
+- Git & GitHub
+
+## 📈 Data & Automation
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Transformation
+- Dashboard Development
+- Reporting Automation
+- Forecasting Models
+
+---
+
+# 📌 Featured Projects
 
 | Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 📊 [Finance Analytics Dashboard](https://github.com/ahamedkafeel22/finance-analytics-dashboard) | Power BI dashboard for P&L, expense tracking, and KPI monitoring enabling faster and more accurate decision-making | Power BI · DAX |
-| 📈 [DMart Demand Forecasting](https://github.com/ahamedkafeel22/dmart-demand-forecasting) | Demand forecasting models (ARIMA/Prophet) supporting budgeting and planning with MAPE < 8% | Python · Forecasting |
-| 🤖 [AI Document Assistant](https://github.com/ahamedkafeel22/ai-document-assistant) | RAG system for querying financial documents, reducing audit review time and improving compliance efficiency | Python · RAG · LLM |
+|---------|-------------|------------|
+| [📊 Finance Analytics Dashboard](https://github.com/ahamedkafeel22/finance-analytics-dashboard) | Executive Power BI dashboard for KPI tracking, P&L analysis, and financial reporting | Power BI, DAX, SQL |
+| [📈 Demand Forecasting Model](https://github.com/ahamedkafeel22/dmart-demand-forecasting) | Time-series forecasting system using ARIMA & Prophet for retail demand prediction | Python, Forecasting |
+| [🤖 Financial Document Intelligence](https://github.com/ahamedkafeel22/helmet-safety-mlops) | AI-powered RAG application for querying financial documents and audit automation | Python, LangChain, RAG |
+| [📉 Customer Churn Prediction](https://github.com/ahamedkafeel22/customer-churn-prediction) | Machine learning pipeline for customer churn prediction and retention analytics | Python, ML |
 
 ---
 
-## 🛠️ Tech Stack
+# 🏆 Certifications
 
-**Finance & Analytics**  
-FP&A · Budgeting · Forecasting · Variance Analysis · Financial Close  
-
-**BI & Reporting**  
-Power BI · DAX · Tableau · Advanced Excel (VBA)  
-
-**Data & Automation**  
-Python · Pandas · NumPy · SQL · MySQL · PostgreSQL  
-
-**AI / ML (Applied in Finance)**  
-Forecasting (ARIMA, Prophet) · RAG · Scikit-learn  
-
-**Tools & Platforms**  
-AWS · Docker · Git · FastAPI · Tally ERP  
+- NASSCOM Data Science Certification (Gold)
+- NASSCOM Python Fundamentals (Gold)
+- Artificial Intelligence & Deep Learning
+- Tableau Data Visualization
+- Power BI Data Visualization
+- Advanced Excel
 
 ---
 
-## 📜 Certifications
+# 🎓 Education
 
-- NASSCOM Data Science — Gold  
-- NASSCOM Python Fundamentals — Gold  
-- AI & Deep Learning — 360DigiTMG  
-- Power BI · Tableau · SQL · Advanced Excel · Generative AI  
+### MBA in Finance
+Amity University Online  
+(Expected 2027)
 
----
-
-## 🌐 Languages
-
-English (Professional) · Hindi (Fluent) · Urdu (Native) · Kannada (Fluent)  
+### Bachelor of Commerce
+Karnataka State Open University
 
 ---
 
-<p align="center">
-  <i>Transforming financial data into insights and systems that drive business decisions.</i>
-</p>
+# 🌐 Connect With Me
+
+📍 Mysore, Karnataka, India
+
+📧 ahamedkafeel22@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/syed-kafeel-ahamed-ab465036b
+
+---
+
+<div align="center">
+
+### ⭐ Transforming business data into actionable insights through analytics and automation
+
+</div>
