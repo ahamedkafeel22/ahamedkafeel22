@@ -108,3 +108,9 @@ https://www.linkedin.com/in/syed-kafeel-ahamed-ab465036b
 ### ⭐ Transforming business data into actionable insights through analytics and automation
 
 </div>
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahamedkafeel22&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahamedkafeel22&layout=compact&theme=tokyonight)
